@@ -25,7 +25,7 @@
 - saisie de valeurs numérique
 
 ## manipulation
-- copier / coler d'un prog. à l'autre
+- copier / coller d'un prog. à l'autre
 - glisser / déposer
 - ouvrir / importer
 - enreg: format natif
